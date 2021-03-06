@@ -8,6 +8,7 @@ public class Executavel {
 		
 		Menu menu = new Menu();
 		menu.apresentarMenu();
+		
 	}
 
 }
